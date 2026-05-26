@@ -1,0 +1,27 @@
+/* Color Theme Swatches in Hex */
+.Natureza-1-hex { color: #41A8BF; }
+.Natureza-2-hex { color: #B0D1D9; }
+.Natureza-3-hex { color: #F2B077; }
+.Natureza-4-hex { color: #734226; }
+.Natureza-5-hex { color: #A66B49; }
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    color: #734226;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    color:#A66B49;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: radial-gradient(circle, #a0deec,white );
+    color: #A66B49;
+}
+h2{
+    color: #A66B49;
+}
+        
